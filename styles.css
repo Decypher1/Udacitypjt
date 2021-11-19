@@ -1,0 +1,20 @@
+/* add your CSS here */
+* {
+ text-align: center;
+ background-color: rgb(90%, 90%, 90%);   
+}
+body {
+    border: 1px solid black;
+    width: 340px;
+}
+
+.animal-fact {
+    border: 1px solid black;
+}
+
+li {
+    list-style-type: none;
+}
+img {
+    width: 300px;
+}
